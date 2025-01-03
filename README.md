@@ -58,14 +58,15 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kaifmanzar26MAR&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
-<!--     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifmanzar26MAR&theme=dark" alt="GitHub Streak"/>
-    </td> -->
+    <td>
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifmanzar26MAR&theme=dark" alt="GitHub Streak"/> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmanzar26MAR&layout=compact&theme=dark" alt="Top Languages"/>
+    </td> 
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmanzar26MAR&layout=compact&theme=dark" alt="Top Languages"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmanzar26MAR&layout=compact&theme=dark" alt="Top Languages"/> -->
 </div>
 
 <p align="center">
