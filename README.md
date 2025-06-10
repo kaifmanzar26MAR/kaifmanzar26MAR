@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - 🔭 I'm currently working on [Uber](https://github.com/kaifmanzar26MAR/Uber)  
-- 🌱 I'm currently learning **[Microservices && DevOps]**  
+- 🌱 I'm currently learning **Flutter**  
 - 👯 Looking to collaborate on innovative projects  
 - 💬 Ask me about **C++, JavaScript, Node.js, React, Next.js, Socket.io, Project-logics**  
 - 📫 How to reach me: [kaifmanzar321@gmail.com]
@@ -38,7 +38,8 @@
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
